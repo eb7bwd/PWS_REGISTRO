@@ -2,10 +2,10 @@
 
 Datos registrados por la estación meteorológica personal **EB7BWD**
 (identificador **ICHICL111** en Weather Underground), situada en **Chiclana de la Frontera, Andalucía**
-(36.420°N, 6.156°W). Las horas están en hora local de ****, con el cambio
+(36.420°N, 6.156°W). Las horas están en hora local de **Europe/Madrid**, con el cambio
 de hora de verano incluido.
 
-Última actualización: 17/11/2026 00:05.
+Última actualización: 17/11/2026 20:23.
 
 Si reutilizas estos datos, cita la fuente: *Estación meteorológica EB7BWD (PWS ICHICL111)*.
 
