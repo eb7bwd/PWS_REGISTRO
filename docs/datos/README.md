@@ -5,7 +5,7 @@ Datos registrados por la estación meteorológica personal **EB7BWD**
 (36.420°N, 6.156°W). Las horas están en hora local de **Europe/Madrid**, con el cambio
 de hora de verano incluido.
 
-Última actualización: 22/11/2026 14:44.
+Última actualización: 24/11/2026 14:31.
 
 Si reutilizas estos datos, cita la fuente: *Estación meteorológica EB7BWD (PWS ICHICL111)*.
 
